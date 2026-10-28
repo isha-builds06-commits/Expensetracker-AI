@@ -1,0 +1,1 @@
+{"name":"expensetracker-ai","version":"1.0.0","description":"ExpenseTracker AI with a zero-dependency Node backend","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
